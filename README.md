@@ -1,5 +1,13 @@
 # Sticky-Boots-Assets
 
-All the Art and Sounds from my game Sticky Boots
+<p align="center">All the Art and Sounds from my game Sticky Boots</p>
 
-Available at [stickybootsgame.com](https://stickybootsgame.com) on [IOS](https://itunes.apple.com/us/app/sticky-boots/id1150936919?ls=1&mt=8) and [Android](https://play.google.com/store/apps/details?id=com.stickybootsgame.StickyBoots).
+<p align="center"> Available at <a href="https://stickybootsgame.com">stickybootsgame.com</a> </p>
+
+<p align="center">
+
+<a href="https://itunes.apple.com/us/app/sticky-boots/id1150936919?ls=1&mt=8"><img style="width:20%; padding-right:50px;" src="http://www.stickybootsgame.com/images/appstore.png"></a> <a href="https://play.google.com/store/apps/details?id=com.stickybootsgame.StickyBoots" style="width:20%;" ><img style="width:20%;" src="http://www.stickybootsgame.com/images/googleplay.png"></a> </p> 
+
+<p align="center">
+  <img src="http://www.stickybootsgame.com/images/sb-mask.png">
+</p>
